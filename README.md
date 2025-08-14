@@ -4,16 +4,16 @@
   <img src= "hello-kiyty-cute.gif" width="120"/>
 </p>
 
-<h1 align="center">Olá! Eu sou a Ray 🌸</h1>
+<h1 align="center">Hii! I'm Ray 🌸</h1>
 
 <p align="center">
-  Bem-vindo(a) ao meu GitHub! 🩷<br>
-  Aqui você vai encontrar meus projetos da faculdade, projetos pessoais e cursos de formação!
+  Welcome to my GitHub! 🩷<br>
+ Here you will find my college projects, personal projects and training courses!
 </p>
 
 --- 
 
-<h2>👩🏻‍💻 Linguagens e Tecnologias</h2>
+<h2>👩🏻‍💻 Languages and Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />     
@@ -25,12 +25,11 @@
   <img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white" />              
 </p>
 
-<h2>🎨 Um pouco sobre mim</h2>
+<h2>🌟 A little about me</h2>
 
-- 🌸 Tenho 21 anos.
-- 🖥️ Faço Ciência da computação na FACAPE com foco em análise de dados. 
-- 📚 Sempre aprendendo coisas novas.   
-
+- 🌸 I'm 21 years old.
+- 🖥️ I study Computer Science at FACAPE with a focus on data analysis. 
+- 📚 Always learning new things ^-^
 ---
 
 <p align="center">
@@ -39,12 +38,12 @@
   <img src="cute-hello-kitty.gif" width="80"/>
 </p>
 
-<p align="center">Vamos criar coisas incríveis juntos! 🌸✨</p>
+<p align="center">Let's create amazing things together! 🌸✨</p>
 
 ---
 
 <p align="center">
-✉️ Contato: <a href="mailto:rayssarrs2004@gmail.com">rayssarrs2004@gmail.com</a>
+✉️ Contact: <a href="mailto:rayssarrs2004@gmail.com">rayssarrs2004@gmail.com</a>
 </p>
 
 
@@ -54,8 +53,8 @@
   </a>
 </p>
 <div align="center">
-  <strong> Obrigada pela visita!🩷 </strong>  
-  <br> 🌷 Explore meus repositórios, dê uma estrela ⭐ se você gostou de algum projeto!
+  <strong> Thanks for visiting!🩷 </strong>  
+  <br> 🌷 Explore my repositories, give a star ⭐ if you liked any project!
 </div>
 
 
