@@ -1,7 +1,7 @@
 ## Hello, world!
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/3oEduQAsYq6Vq5z5lK/giphy.gif](https://tenor.com/pt-BR/view/hello-kiyty-cute-kawaii-pink-gif-6609393190580363166" width="120"/>
+  <img src= "hello-kiyty-cute.gif" width="120"/>
 </p>
 
 <h1 align="center">Olá! Eu sou a Ray 🌸</h1>
