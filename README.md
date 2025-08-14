@@ -43,7 +43,7 @@
 
 <p align="right">
   <a href="https://www.linkedin.com/in/rayssa-rodrigues-sousa-162546311" target="_blank">
-    <img src="https://github.com/rayssarrs2004/rayssarrs2004/blob/main/LinkedIn.jpeg" alt="LinkedIn" width="40"/>
+    <img src="LinkedIn.jpeg" width="40"/>
   </a>
 </p>
 
