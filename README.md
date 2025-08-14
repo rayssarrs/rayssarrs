@@ -7,8 +7,8 @@
 <h1 align="center">Olá! Eu sou a Ray 🌸</h1>
 
 <p align="center">
-  Bem-vindo(a) ao meu GitHub! 💖<br>
-  Aqui você vai encontrar meus projetos de faculdade, pessoais e cursos de formação!
+  Bem-vindo(a) ao meu GitHub! 🩷<br>
+  Aqui você vai encontrar meus projetos da faculdade, projetos pessoais e cursos de formação!
 </p>
 
 ---
@@ -39,5 +39,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Kitty_character.svg" width="80"/>
 </p>
 
-<p align="center">Vamos criar coisas incríveis juntas! 🌸✨</p>
+<p align="center">Vamos criar coisas incríveis juntos! 🌸✨</p>
 
