@@ -41,3 +41,13 @@
 
 <p align="center">Vamos criar coisas incríveis juntos! 🌸✨</p>
 
+<p align="right">
+  <a href="mailto:rayssarrs2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-F5A3B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rayssa-rodrigues-sousa-162546311" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E29CD7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
