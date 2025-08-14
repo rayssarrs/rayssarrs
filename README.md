@@ -29,7 +29,7 @@
 
 - 🌸 I'm 21 years old.
 - 🖥️ I study Computer Science at FACAPE with a focus on data analysis. 
-- 📚 Always learning new things ^-^
+- 📚 Always learning new things :)
 ---
 
 <p align="center">
