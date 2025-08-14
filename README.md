@@ -53,6 +53,9 @@
     <img src="LinkedIn.jpeg" width="40"/>
   </a>
 </p>
-
+<div align="center">
+  <strong> Obrigada pela visita!🩷 </strong>  
+  <br> 🌷 Explore meus repositórios, dê uma estrela ⭐ se você gostou de algum projeto!
+</div>
 
 
