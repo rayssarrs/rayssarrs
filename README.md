@@ -1,4 +1,4 @@
-## Hello, world!
+## Hello, world! 🌟
 
 <p align="center">
   <img src= "hello-kiyty-cute.gif" width="120"/>
@@ -13,7 +13,7 @@
 
 ---
 
-<h2>💻 Linguagens e Tecnologias</h2>
+<h2>👩🏻‍💻 Linguagens e Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,9 +34,9 @@
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Kitty_character.svg" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Kitty_character.svg" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Kitty_character.svg" width="80"/>
+  <img src="cute-hello-kitty.gif" width="80"/>
+  <img src="cute-hello-kitty.gif" width="80"/>
+  <img src="cute-hello-kitty.gif" width="80"/>
 </p>
 
 <p align="center">Vamos criar coisas incríveis juntos! 🌸✨</p>
