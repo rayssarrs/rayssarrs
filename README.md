@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-A9A9A9?style=for-the-badge&logo=python&logoColor=3776AB" />      
   <img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=150458" />    
   <img src="https://img.shields.io/badge/SQL-FFC0CB?style=for-the-badge&logo=postgresql&logoColor=white" />   
-  <img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white" />              
+  <img src="https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />             
 </p>
 
 <h2>🌟 A little about me</h2>
