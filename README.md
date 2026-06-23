@@ -27,7 +27,7 @@
 
 <h2>🌟 A little about me</h2>
 
-- 🌸 I'm 21 years old.
+- 🌸 I'm 22 years old.
 - 🖥️ I study Computer Science at FACAPE with a focus on data analysis. 
 - 📚 Always learning new things :)
 ---
